@@ -1,7 +1,7 @@
 -include config.mk
 
 INPUT       = cnc95.obj
-OUTPUT      = td.exe
+OUTPUT      = game.exe
 LDS         = cnc95.lds
 IMPORTS     = 0x1B0000 5157
 LDFLAGS     = --section-alignment=0x10000 --subsystem=windows --enable-stdcall-fixup

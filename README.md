@@ -2,6 +2,11 @@ Command & Conquer
 ================================================================================
 Patches/bug fixes for Command & Conquer (aka. Tiberian Dawn) (by Westwood Studios)
 
+Downloading the latest binaries.
+-----------------
+You can download the latest binaries here;<br>
+https://github.com/CnCNet/td-patches/releases
+
 Instructions
 --------------------------------------------------------------------------------
 

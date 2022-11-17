@@ -1,0 +1,10 @@
+
+; This header works with sym.asm which defines the Vanilla symbols
+; This header will be split up as it becomes larger
+
+; ### definitions of common structures ###
+
+struc ListAddress
+    .port:      RESD 1
+    .ip:        RESD 1
+endstruc

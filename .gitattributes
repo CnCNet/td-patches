@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+*	text=auto
+
+*.asm	text
+*.inc	text
+
+*.cmd	text eol=clrf
+
+*.exe	-text
+*.dat   -text
